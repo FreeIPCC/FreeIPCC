@@ -1,5 +1,5 @@
 呼叫中心，智能外呼，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，呼叫中心系统，话务系统,智能外呼系统，呼叫中心系统，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型呼叫中心，联络中心，客服中心，AI，freeswitch，opensips，LLM，Kamailio，Asterisk，WebRTC，outbound，CallCenter,ContactCenter,Call,IPCC,Voice,AI,Codec,call center,contact center,freeswitch,opensips,LLM,TTS,ASR,NLP,Chabot,call center system,telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, Call Center system, artificial intelligence, inbound Robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system，开源呼叫中心系统（😄交付源代码给客户😄），大模型，LLM，LangChain，RAG检索模块!
-!!!
+
 LLM Call Center,AI Call Center,大模型呼叫中心,大模型客服系统，可以对接市面上主流模型与私有模型：OpenAI,LLaMA,Kimi,通义千问,智谱AI,讯飞星火,Gemini,Xorbits Inference,Amazon Bedrock,火山引擎,腾讯混元,Claude,Bard,DeepSeek,Azure OpenAI,千帆大模型,Ollama,qwen,vLLM等！
 LLM Call Center, AI Call Center, large model call center, large model customer service system, can connect to mainstream models and private models on the market: OpenAI, LLaMA, Kimi, Tongyi Qianwen, Zhipu AI, iFlytek Spark, Gemini, Xorbits Inference, Amazon Bedrock, Volcano Engine, Tencent Hunyuan, Claude, Bard, DeepSeek, Azure OpenAI, Qianfan Large Model, Ollama, qwen, vLLM, etc.
 
@@ -17,7 +17,7 @@ We are committed to becoming: 1. Big model call center system, big model inbound
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com 
 
-## 2025.04.25 new demo URL 最新链接enjoy😄：
+## 2025.04.27 new demo URL 最新链接enjoy😄：
 
 1，话务call manager/在线客服online chat：(demo123/demo123@Abc)
 http://124.220.48.38:8822/cc
@@ -29,7 +29,9 @@ http://124.220.48.38:80
 ![image](https://github.com/user-attachments/assets/bcb346cd-9f41-4f92-9062-3f932928225b)
 
 ## demo视频 demo video
+
 [点击此处观看视频Click here to watch the video](https://github.com/FreeIPCC/FreeIPCC/blob/main/00-%E5%AE%A2%E6%88%B7%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%91%BC%E5%8F%AB%E4%B8%AD%E5%BF%83%E6%B5%8B%E8%AF%95-%E8%A3%81%E5%89%AA%E6%8E%89%E5%85%AC%E5%8F%B8%E4%BF%A1%E6%81%AF.mp4)
+
 [点击此处观看视频Click here to watch the video](https://github.com/FreeIPCC/FreeIPCC/blob/main/00-%E8%BF%90%E8%90%A5%E5%95%86%E7%94%B5%E8%AF%9D%E5%8A%A9%E7%90%86%E6%B5%8B%E8%AF%95-%E5%B8%A6%E5%AD%97%E5%B9%95.mp4)
 
 ## Development language开发语言：Java Python为主
