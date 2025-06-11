@@ -10,7 +10,7 @@ We are committed to becoming: 1. Big model call center system, big model inbound
 ## 😄功能完整性：话务系统，工单系统，IM在线客服系统，录音系统，功能齐全、不设限！Functional completeness: call center system, work order system, IM online customer service system, recording system, full functions, unlimited!
 ## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！We firmly believe that only when software is used can it bring value to users and allow itself to iterate!
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！Sustainability: Continuous iteration since 2014, members come from ecological enterprises such as Cisco, Avaya, Datang Telecom, Huawei, FreeSWITCH, etc., long-termism!
-
+## 😄长期目标：将大模型呼叫中心能力，赋能1万家集成商，服务120万家企业！Long-term goal: To empower 10,000 integrators and serve 1.2 million enterprises with large-scale call center capabilities!
 ## 📫 How to reach us:
 - 官方WeChat:freeipcc
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
