@@ -1,5 +1,5 @@
 呼叫中心，智能客服，智能外呼，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，呼叫中心系统，话务系统,智能外呼系统，呼叫中心系统，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型呼叫中心，联络中心，客服中心，AI，freeswitch，opensips，LLM，Kamailio，Asterisk，WebRTC，outbound，CallCenter,ContactCenter,Call,IPCC,Voice,AI,Codec,call center,contact center,freeswitch,opensips,LLM,TTS,ASR,NLP,Chabot,call center system,telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, Call Center system, artificial intelligence, inbound Robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system，开源呼叫中心系统（😄交付源代码给客户😄），大模型，LLM，LangChain，RAG检索模块!
-!
+
 LLM Call Center,AI Call Center,大模型呼叫中心,大模型客服系统，可以对接市面上主流模型与私有模型：OpenAI,LLaMA,Kimi,通义千问,智谱AI,讯飞星火,Gemini,Xorbits Inference,Amazon Bedrock,火山引擎,腾讯混元,Claude,Bard,DeepSeek,Azure OpenAI,千帆大模型,Ollama,qwen,vLLM等！
 LLM Call Center, AI Call Center, large model call center, large model customer service system, can connect to mainstream models and private models on the market: OpenAI, LLaMA, Kimi, Tongyi Qianwen, Zhipu AI, iFlytek Spark, Gemini, Xorbits Inference, Amazon Bedrock, Volcano Engine, Tencent Hunyuan, Claude, Bard, DeepSeek, Azure OpenAI, Qianfan Large Model, Ollama, qwen, vLLM, etc.
 
@@ -12,13 +12,12 @@ We are committed to becoming: 1. Big model call center system, big model inbound
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！Sustainability: Continuous iteration since 2014, members come from ecological enterprises such as Cisco, Avaya, Datang Telecom, Huawei, FreeSWITCH, etc., long-termism!
 ## 😄长期目标：将大模型呼叫中心能力，赋能1万家集成商，服务120万个客户！Long-term goal: To empower 10,000 integrators with large-scale call center capabilities and serve 1.2 million customers!
 ## 📫 How to reach us:
-- 官方WeChat:freeipcc
-- Skype：https://join.skype.com/invite/rVbQH1igkQwV
-- Skype UserID：live:.cid.fedb411de91d9b
+- 官方微信01：freeipcc
+- 官方微信02：freeaicc
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com 
 
-## 2025.06.11 new demo URL 最新链接enjoy😄：
+## 2025.06.12 new demo URL 最新链接enjoy😄：
 
 1，话务call manager/在线客服online chat：(demo123/demo123@Abc)
 http://124.220.48.38:8822/cc
