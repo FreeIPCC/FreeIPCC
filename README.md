@@ -12,6 +12,11 @@ We are committed to becoming: 1. Big model call center system, big model inbound
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！Sustainability: Continuous iteration since 2014, members come from ecological enterprises such as Cisco, Avaya, Datang Telecom, Huawei, FreeSWITCH, etc., long-termism!
 ## 😄长期目标：引领呼叫中心行业发展，将大模型呼叫中心能力，赋能1万家集成商，服务120万个客户！Long-term goal: Leading the development of the call center industry, empowering 10,000 integrators with big model call center capabilities and serving 1.2 million customers!
 ## 😄大客户案例：电信、联通、华数（广电），四大运营商已合作三家
+
+<img src="https://github.com/user-attachments/assets/8ffb1298-a1de-45e4-9384-b9682715f197" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/68baf9a8-d8d7-4ae1-bbb2-06eb5c874415" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/6e2f8cc1-131b-477c-bcb1-bbb8f39990e5" width="300" height="200">
+
 ![联通logo](https://github.com/user-attachments/assets/8ffb1298-a1de-45e4-9384-b9682715f197)
 ![电信logo](https://github.com/user-attachments/assets/68baf9a8-d8d7-4ae1-bbb2-06eb5c874415)
 ![华数logo](https://github.com/user-attachments/assets/6e2f8cc1-131b-477c-bcb1-bbb8f39990e5)
