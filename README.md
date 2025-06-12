@@ -11,6 +11,11 @@ We are committed to becoming: 1. Big model call center system, big model inbound
 ## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！We firmly believe that only when software is used can it bring value to users and allow itself to iterate!
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！Sustainability: Continuous iteration since 2014, members come from ecological enterprises such as Cisco, Avaya, Datang Telecom, Huawei, FreeSWITCH, etc., long-termism!
 ## 😄长期目标：引领呼叫中心行业发展，将大模型呼叫中心能力，赋能1万家集成商，服务120万个客户！Long-term goal: Leading the development of the call center industry, empowering 10,000 integrators with big model call center capabilities and serving 1.2 million customers!
+## 😄大客户案例：电信、联通、华数（广电），四大运营商已合作三家
+![联通logo](https://github.com/user-attachments/assets/6d8b0fec-a8ba-428f-ad01-d6cc7663f48f)
+![电信logo](https://github.com/user-attachments/assets/0166a1a6-f177-4207-9791-140eccc34be7)
+![华数logo](https://github.com/user-attachments/assets/8ada6e3e-204d-4277-8e4f-e0ef7b4cd5ce)
+
 ## 📫 How to reach us:
 - 官方微信01：freeipcc
 - 官方微信02：freeaicc
