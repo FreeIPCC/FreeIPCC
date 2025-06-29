@@ -18,7 +18,7 @@ We are committed to becoming: 1. Big model call center system, big model inbound
 <img src="https://github.com/user-attachments/assets/6e2f8cc1-131b-477c-bcb1-bbb8f39990e5" width="200" height="100">
 <img src="https://github.com/user-attachments/assets/8ffb1298-a1de-45e4-9384-b9682715f197" width="300" height="100">
 
-<img src="https://github.com/user-attachments/assets/804f4d98-b39d-42ba-acd0-3911243c264e" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/804f4d98-b39d-42ba-acd0-3911243c264e" width="300" height="300">
 <img src="https://github.com/user-attachments/assets/9cb17759-ba9b-4727-ada8-1afc324257b5" width="200" height="200">
 <img src="https://github.com/user-attachments/assets/6f67e4ca-bb24-4431-9bf8-60ac53b1f956" width="200" height="200">
 
