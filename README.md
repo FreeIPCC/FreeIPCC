@@ -19,7 +19,7 @@ We are committed to becoming: 1. Big model call center system, big model inbound
 <img src="https://github.com/user-attachments/assets/8ffb1298-a1de-45e4-9384-b9682715f197" width="300" height="100">
 
 <img src="https://github.com/user-attachments/assets/804f4d98-b39d-42ba-acd0-3911243c264e" width="300" height="300">
-<img src="https://github.com/user-attachments/assets/9cb17759-ba9b-4727-ada8-1afc324257b5" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/9cb17759-ba9b-4727-ada8-1afc324257b5" width="250" height="250">
 <img src="https://github.com/user-attachments/assets/6f67e4ca-bb24-4431-9bf8-60ac53b1f956" width="300" height="300">
 
 ## 😄思科呼叫中心、Avaya呼叫中心，国产平替；也可以对接思科与avaya，利旧系统；国产呼叫中心源头！Cisco Call Center, Avaya Call Center, domestic alternatives; can also connect to Cisco and Avaya, reusing old systems; the source of domestic call centers!
