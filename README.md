@@ -1,5 +1,5 @@
 呼叫中心，智能客服，智能外呼，大模型呼入机器人，大模型呼出机器人，客服系统，工单系统，呼叫中心系统，大语言模型呼叫中心，话务系统,智能外呼系统，呼叫中心系统，呼入机器人，大模型机器人，智能电话外呼，开源呼叫中心系统，电话外呼，客服中心，在线客服，大模型呼叫中心，联络中心，客服中心，语音Agent，MCP，AI，freeswitch，opensips，LLM，Kamailio，Asterisk，WebRTC，outbound，CallCenter,ContactCenter,Call,IPCC,Voice,AI,Codec,call center,contact center,freeswitch,opensips,LLM,TTS,ASR,NLP,Chabot,call center system,telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, Call Center system, artificial intelligence, inbound Robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system，开源呼叫中心系统（😄交付源代码给客户😄），大模型，LLM，LangChain，RAG检索模块!
-!!!!!
+
 LLM Call Center,AI Call Center,大模型呼叫中心,大模型客服系统，可以对接市面上主流模型与私有模型：OpenAI,LLaMA,Kimi,通义千问,智谱AI,讯飞星火,Gemini,Xorbits Inference,Amazon Bedrock,火山引擎,腾讯混元,Claude,Bard,DeepSeek,Azure OpenAI,千帆大模型,Ollama,qwen,vLLM等！
 LLM Call Center, AI Call Center, large model call center, large model customer service system, can connect to mainstream models and private models on the market: OpenAI, LLaMA, Kimi, Tongyi Qianwen, Zhipu AI, iFlytek Spark, Gemini, Xorbits Inference, Amazon Bedrock, Volcano Engine, Tencent Hunyuan, Claude, Bard, DeepSeek, Azure OpenAI, Qianfan Large Model, Ollama, qwen, vLLM, etc.
 
@@ -12,7 +12,6 @@ We are committed to becoming: 1. Big model call center system, big model inbound
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！Sustainability: Continuous iteration since 2014, members come from ecological enterprises such as Cisco, Avaya, Datang Telecom, Huawei, FreeSWITCH, etc., long-termism!
 ## 😄长期目标：疯狂地创造社会价值，引领呼叫中心行业发展，将大模型呼叫中心能力，赋能1万家集成商，服务120万个客户！Long-term goal: Crazy creation of social value, leading the development of the call center industry, empowering 10,000 integrators with big model call center capabilities and serving 1.2 million customers!
 ## 😄大客户案例：电信、华数（广电）、联通，四大运营商已合作三家（移动400业务覆盖有限）;三甲医院、中国顶级高校、政府公共部门，都有案例！Major customer cases: China Telecom, Wasu (Radio and Television), China Unicom, and three of the four major operators have cooperated (China Mobile's 400 business coverage is limited);There are cases in tertiary hospitals, China's top universities, and government public departments!
-## 😄思科呼叫中心、Avaya呼叫中心，国产平替；也可以对接思科与avaya，利旧系统；国产呼叫中心源头！Cisco Call Center, Avaya Call Center, domestic alternatives; can also connect to Cisco and Avaya, reusing old systems; the source of domestic call centers!
 
 <img src="https://github.com/user-attachments/assets/68baf9a8-d8d7-4ae1-bbb2-06eb5c874415" width="300" height="100">
 <img src="https://github.com/user-attachments/assets/6e2f8cc1-131b-477c-bcb1-bbb8f39990e5" width="200" height="100">
@@ -31,7 +30,7 @@ We are committed to becoming: 1. Big model call center system, big model inbound
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com 
 
-## 2025.07.01 new demo URL 最新链接enjoy😄：
+## 2025.07.03 new demo URL 最新链接enjoy😄：
 
 1，话务call manager/在线客服online chat：(demo123/demo123@Abc)
 http://124.220.48.38:8822/cc
