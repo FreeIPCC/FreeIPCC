@@ -5,6 +5,8 @@ LLM Call Center, AI Call Center, large model call center, large model customer s
 
 致力于成为：1，大模型呼叫中心系统、大模型呼入、大模型呼出、电话机器人、客服机器人、智能呼叫中心系统、大模型智能客服系统；2，开源呼叫中心系统、开源客服系统；3，视频呼叫中心系统、视频客服系统；4，全渠道客服系统、在线客服系统等客户服务、企业获客方面的全球领导者!
 We are committed to becoming: 1. Big model call center system, big model inbound call, big model outbound call, telephone robot, customer service robot, intelligent call center system, big model intelligent customer service system; 2. Open source call center system, open source customer service system; 3. Video call center system, video customer service system; 4. Omni-channel customer service system, online customer service system and other global leaders in customer service and corporate customer acquisition!
+## 😄为什么使用大语言模型呼叫中心？真正解决“ASR+NLP+TTS”时代的痛点，让AI真正可用！Why use a large language model in a call center? Truly solve the pain points of the "ASR+NLP+TTS" era and make AI truly usable!
+![9c089886-1173-4774-a8cf-f84c83cc0e12](https://github.com/user-attachments/assets/51e69f1b-4d1e-492e-b315-692cddbf1a0e)
 
 ## 😄代码完整性：前端、后端、数据库，齐全！全开、不设限！不分什么社区版、商业版！Code integrity: front-end, back-end, database, all complete! All open, no restrictions! No distinction between community version and commercial version!
 ## 😄功能完整性：话务系统，工单系统，IM在线客服系统，录音系统，功能齐全、不设限！Functional completeness: call center system, work order system, IM online customer service system, recording system, full functions, unlimited!
@@ -30,7 +32,7 @@ We are committed to becoming: 1. Big model call center system, big model inbound
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com 
 
-## 2025.07.04 new demo URL 最新链接enjoy😄：
+## 2025.07.05 new demo URL 最新链接enjoy😄：
 
 1，话务call manager/在线客服online chat：(demo123/demo123@Abc)
 http://124.220.48.38:8822/cc
