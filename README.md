@@ -75,15 +75,11 @@ Basic functions:
 9. Highly configurable: Provides an intuitive configuration interface, allowing users to adjust system parameters and optimize workflows according to their needs without programming, and achieve rapid customization and deployment.
 10. Community support and ecological co-construction: Establish an active open source community to encourage users to share experiences, propose requirements, contribute code, and jointly promote the continuous development and improvement of the project. We believe that through the power of the community, our open source call center will continue to evolve and become a leader in the field of customer service!
 
-![image](https://github.com/user-attachments/assets/604a9a46-edc8-4a1f-9f94-a5021f178101)
 ![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
 ![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图01](https://github.com/user-attachments/assets/0b53f8b5-72f3-4f1f-82d4-cf50f60ad875)
-![image](https://github.com/user-attachments/assets/804da108-aa56-4f65-98f2-0d55fe4590fb)
-![image](https://github.com/user-attachments/assets/34ec0973-a012-47ae-b924-3d25a9c65c58)
+![image](https://github.com/user-attachments/assets/8bfca84f-996f-4cb3-ae35-88918e99f8f7)
 ![image](https://github.com/user-attachments/assets/dd5ef068-e4cc-48ba-aaa6-074f1eade244)
 ![image](https://github.com/user-attachments/assets/7889efb4-85e9-45b2-84a4-ea837dc6b7fd)
-![image](https://github.com/user-attachments/assets/96c81618-9d85-4d32-9f9a-6719426b4640)
-![image](https://github.com/user-attachments/assets/38877999-8119-4bb9-b280-4f0b26a06414)
 ![image](https://github.com/user-attachments/assets/5c3f7012-629a-4f4f-a5cf-f4ce72b9a095)
 ![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
 
